@@ -1,0 +1,17 @@
+
+:root{
+    --btnRedius:2px;
+    --btnFontSize:0.9rem;
+    --btnPadding: 6px 12px;
+}
+.fcb-btn{
+    border-radius: var(--btnRedius);
+    font-size: var(--btnFontSize);
+    padding: var(--btnPadding);
+}
+.darkbg{
+    
+}
+.lightbg{
+
+}
